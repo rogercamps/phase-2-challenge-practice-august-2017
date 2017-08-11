@@ -1,0 +1,24 @@
+{
+  "name": "phase-2-challenge-practice-august-2017",
+  "version": "1.0.0",
+  "description": "# Phase 2 Interview Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogercamps/phase-2-challenge-practice-august-2017.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogercamps/phase-2-challenge-practice-august-2017/issues"
+  },
+  "homepage": "https://github.com/rogercamps/phase-2-challenge-practice-august-2017#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
